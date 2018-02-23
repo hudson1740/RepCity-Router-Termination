@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\bin\Debug\Router Terminated.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\bin\Debug\Router Terminated.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\bin\Debug\Router Terminated.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\bin\Debug\Router Terminated.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router_Terminated.RouterTerminated.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router_Terminated.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router Terminated.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router Terminated.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router Terminated.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router Terminated.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Router Terminated\Router Terminated\obj\Debug\Router Terminated.vbprojResolveAssemblyReference.cache
